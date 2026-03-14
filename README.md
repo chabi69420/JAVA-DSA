@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,9 @@
 | [0016-3sum-closest](https://github.com/chabi69420/JAVA-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
