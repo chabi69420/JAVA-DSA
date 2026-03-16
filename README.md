@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/chabi69420/JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
