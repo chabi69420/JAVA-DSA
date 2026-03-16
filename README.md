@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chabi69420/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chabi69420/JAVA-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0018-4sum) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/chabi69420/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/chabi69420/JAVA-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0018-4sum) |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chabi69420/JAVA-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/chabi69420/JAVA-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
