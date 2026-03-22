@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chabi69420/JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -24,6 +25,7 @@
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/chabi69420/JAVA-DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -54,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chabi69420/JAVA-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
