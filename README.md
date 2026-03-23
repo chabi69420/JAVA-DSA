@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chabi69420/JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/chabi69420/JAVA-DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/chabi69420/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/chabi69420/JAVA-DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
