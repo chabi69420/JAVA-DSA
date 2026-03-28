@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chabi69420/JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/chabi69420/JAVA-DSA/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,12 +100,15 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
