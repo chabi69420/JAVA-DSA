@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -44,12 +45,14 @@
 | [0018-4sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/chabi69420/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/chabi69420/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
@@ -81,4 +84,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chabi69420/JAVA-DSA/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
