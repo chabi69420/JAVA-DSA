@@ -58,6 +58,7 @@
 | [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/chabi69420/JAVA-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 ## Sliding Window
@@ -65,12 +66,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chabi69420/JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/chabi69420/JAVA-DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chabi69420/JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/chabi69420/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/chabi69420/JAVA-DSA/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/chabi69420/JAVA-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chabi69420/JAVA-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/chabi69420/JAVA-DSA/tree/master/1768-merge-strings-alternately) |
 ## Math
