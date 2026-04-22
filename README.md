@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
@@ -45,6 +46,7 @@
 | [0069-sqrtx](https://github.com/chabi69420/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@
 | [0075-sort-colors](https://github.com/chabi69420/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
@@ -67,6 +70,7 @@
 | [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/chabi69420/JAVA-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/chabi69420/JAVA-DSA/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
@@ -97,6 +101,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/chabi69420/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chabi69420/JAVA-DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
