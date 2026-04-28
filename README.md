@@ -29,6 +29,7 @@
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chabi69420/JAVA-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/chabi69420/JAVA-DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chabi69420/JAVA-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/chabi69420/JAVA-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chabi69420/JAVA-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/chabi69420/JAVA-DSA/tree/master/0881-boats-to-save-people) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chabi69420/JAVA-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
