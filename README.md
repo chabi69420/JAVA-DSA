@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/chabi69420/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
@@ -50,6 +51,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chabi69420/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chabi69420/JAVA-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/chabi69420/JAVA-DSA/tree/master/0658-find-k-closest-elements) |
 ## Sorting
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chabi69420/JAVA-DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -159,4 +162,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chabi69420/JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
