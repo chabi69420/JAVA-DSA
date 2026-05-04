@@ -142,6 +142,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/chabi69420/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/chabi69420/JAVA-DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/chabi69420/JAVA-DSA/tree/master/0706-design-hashmap) |
 ## Design
@@ -171,4 +172,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chabi69420/JAVA-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chabi69420/JAVA-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/chabi69420/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
