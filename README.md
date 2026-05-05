@@ -113,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chabi69420/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/chabi69420/JAVA-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/chabi69420/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/chabi69420/JAVA-DSA/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chabi69420/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/chabi69420/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chabi69420/JAVA-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/chabi69420/JAVA-DSA/tree/master/0206-reverse-linked-list) |
@@ -177,6 +179,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/chabi69420/JAVA-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/chabi69420/JAVA-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/chabi69420/JAVA-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
